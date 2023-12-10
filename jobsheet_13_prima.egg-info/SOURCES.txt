@@ -1,0 +1,8 @@
+setup.py
+jobsheet_13_prima/__init__.py
+jobsheet_13_prima/guessing.py
+jobsheet_13_prima/konversi_berat.py
+jobsheet_13_prima.egg-info/PKG-INFO
+jobsheet_13_prima.egg-info/SOURCES.txt
+jobsheet_13_prima.egg-info/dependency_links.txt
+jobsheet_13_prima.egg-info/top_level.txt
